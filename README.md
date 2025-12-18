@@ -101,7 +101,7 @@ Right click on index.html → Open with Live Server
 
 ##  Preview
 
-> ![Dashboard JS Docs](assets/js-docs-dashboard.png)
+> ![Dashboard JS Docs](assets/js-docs-interactive.png)
 
 ---
 
