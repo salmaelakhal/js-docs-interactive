@@ -101,7 +101,7 @@ Right click on index.html → Open with Live Server
 
 ##  Preview
 
-> ![Dashboard doc-js ](js-docs-interactive.vercel.app_ (2).png)
+> ![Dashboard doc-js ](js-docs-interactive.png)
 
 ---
 
