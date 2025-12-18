@@ -215,11 +215,11 @@ header h1 i {
     border-radius: 50%;
 }
 
-input:checked + .slider {
+input:checked+.slider {
     background-color: var(--primary-color);
 }
 
-input:checked + .slider:before {
+input:checked+.slider:before {
     transform: translateX(30px);
 }
 
@@ -434,6 +434,7 @@ footer p {
 
 .footer-link:hover {
     color: var(--primary-color);
+    transform: translateY(-3px);
 }
 
 /* Responsive Design */
@@ -441,16 +442,16 @@ footer p {
     .main-container {
         flex-direction: column;
     }
-    
+
     .sidebar {
         width: 100%;
         position: static;
     }
-    
+
     header h1 {
         font-size: 2rem;
     }
-    
+
     .github-badge {
         position: static;
         margin-top: 15px;
@@ -462,17 +463,17 @@ footer p {
         flex-direction: column;
         gap: 15px;
     }
-    
+
     .topic-header {
         flex-direction: column;
         align-items: flex-start;
         gap: 10px;
     }
-    
+
     .placeholder-content i {
         font-size: 3rem;
     }
-    
+
     .placeholder-content h3 {
         font-size: 1.5rem;
     }
